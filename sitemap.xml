@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://justinkemersion.github.io/music-blog/</loc>
+    <loc>https://justinkemersion.github.io/</loc>
     <lastmod>2025-06-18T15:21:00-04:00</lastmod>
   </url><url>
-    <loc>https://justinkemersion.github.io/music-blog/posts/</loc>
+    <loc>https://justinkemersion.github.io/posts/</loc>
     <lastmod>2025-06-18T15:21:00-04:00</lastmod>
   </url><url>
-    <loc>https://justinkemersion.github.io/music-blog/categories/</loc>
+    <loc>https://justinkemersion.github.io/categories/</loc>
   </url><url>
-    <loc>https://justinkemersion.github.io/music-blog/tags/</loc>
+    <loc>https://justinkemersion.github.io/tags/</loc>
   </url>
 </urlset>
