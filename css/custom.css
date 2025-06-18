@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Fira+Code&display=swap');
+body {
+    font-family: 'Merriweather', serif;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #333333;
+    background-color: #f9f9f9;
+}
+.post-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff4500;
+    text-decoration: underline;
+}
+pre, code {
+    background-color: #f0f0f0;
+    color: #2f2f2f;
+    border-radius: 8px;
+    padding: 4px 8px;
+}
+.post-title {
+    font-size: 1.8rem;
+    color: #222222;
+    margin-bottom: 1rem;
+}
